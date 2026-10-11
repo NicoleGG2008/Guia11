@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Guia11" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/color5</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/color2</item>
+        <item name="colorOnPrimaryContainer">@color/texto</item>
+        <item name="colorSecondary">@color/color4</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/color2</item>
+        <item name="colorOnSecondaryContainer">@color/texto</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/texto</item>
+        <item name="colorOnSurfaceVariant">@color/color4</item>
+        <item name="colorSurfaceContainerLow">@color/white</item>
+        <item name="colorSurfaceContainer">@color/white</item>
+        <item name="colorSurfaceContainerHigh">@color/white</item>
+        <item name="colorSurfaceContainerHighest">@color/color1</item>
+        <item name="colorOutline">@color/color3</item>
+        <item name="android:colorBackground">@color/color1</item>
+        <item name="android:windowBackground">@color/color1</item>
+    </style>
+
+    <style name="Theme.Guia11" parent="Base.Theme.Guia11" />
+</resources>

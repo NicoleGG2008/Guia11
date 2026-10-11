@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta -->
+    <color name="color1">#c3e3b9</color>
+    <color name="color2">#a6c59d</color>
+    <color name="color3">#89a781</color>
+    <color name="color4">#6c8a64</color>
+    <color name="color5">#4f6c48</color>
+    <color name="texto">#1F2D1C</color>
+</resources>
